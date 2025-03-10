@@ -4,7 +4,7 @@
   "description": "we are doing js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/index.ts",
     "dev": "node index.js"
   },
   "author": "Anoop RN",
